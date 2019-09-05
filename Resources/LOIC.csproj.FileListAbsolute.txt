@@ -1,0 +1,9 @@
+C:\Users\Gillian\Desktop\source codes\Chan\LOIC\Sauce\bin\Debug\LOIC.exe
+C:\Users\Gillian\Desktop\source codes\Chan\LOIC\Sauce\bin\Debug\LOIC.pdb
+C:\Users\Gillian\Desktop\source codes\Chan\LOIC\Sauce\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gillian\Desktop\source codes\Chan\LOIC\Sauce\obj\Debug\LOIC.frmMain.resources
+C:\Users\Gillian\Desktop\source codes\Chan\LOIC\Sauce\obj\Debug\LOIC.frmWtf.resources
+C:\Users\Gillian\Desktop\source codes\Chan\LOIC\Sauce\obj\Debug\LOIC.Properties.Resources.resources
+C:\Users\Gillian\Desktop\source codes\Chan\LOIC\Sauce\obj\Debug\LOIC.csproj.GenerateResource.Cache
+C:\Users\Gillian\Desktop\source codes\Chan\LOIC\Sauce\obj\Debug\LOIC.exe
+C:\Users\Gillian\Desktop\source codes\Chan\LOIC\Sauce\obj\Debug\LOIC.pdb
