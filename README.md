@@ -22,6 +22,5 @@ Gxip HTTP
 
 
 create.(thread)
-create.(tcp)_input
 
 
