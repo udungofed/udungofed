@@ -17,7 +17,9 @@
 400 
 
 7 Uncheck 
+
 Wait for reply 
+
 Gxip HTTP 
 
 8 IMMA CHARGIN MAH LAZER 
